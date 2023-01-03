@@ -1,3 +1,4 @@
+/+  *zig-sys-smart
 |%
 +$  bond
   $:  custodian=address
